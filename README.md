@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hatabdel
 - 👀 I’m interested in deep learnig researchs for person re-ID in MTMC
 - 🌱 I’m currently learning deep leanring methods
-- 💞️ I’m looking to collaborate on MTMC ( Multi tracking mutli camera ) researchs
+- 💞️ I’m looking to collaborate on MTMC ( Multi target mutli camera tracking) researchs
 - 📫 How to reach me : hat-abdel@hotmail.fr
 
 <!---
